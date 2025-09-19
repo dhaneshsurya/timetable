@@ -1,0 +1,5 @@
+{
+  "name": "College Timetable Manager",
+  "description": "An interactive and editable college timetable application. View schedules by class or teacher, with a dedicated admin panel for real-time updates and management.",
+  "requestFramePermissions": []
+}
